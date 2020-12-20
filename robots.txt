@@ -1,0 +1,10 @@
+# hexo robots.txt
+User-agent: *
+Allow: /
+Allow: /archives/
+Allow: /categories/
+Allow: /tags/
+Allow: /js/
+Allow: /css/
+Disallow: /fonts/
+Sitemap: https://feifacunzai.github.io/sitemap.xml
